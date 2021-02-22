@@ -12,13 +12,15 @@ pip install mkdocs
 ```
 git clone https://github.com/knyete/knyete.github.io.git
 
-code knyete.github.io
-mkdocs serve
 
 ```
 
-## editar
+## editarlo
 trabajar haciendo carpetas y markdowns en la carpeta 'docs'
+```
+code knyete.github.io
+mkdocs serve
+```
 
 ## publicar
 con 

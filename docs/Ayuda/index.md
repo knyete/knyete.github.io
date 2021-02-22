@@ -27,7 +27,15 @@ con
 
 ```
 
-pip install mkdocs
+mkdocs gh-deploy
+
+
+```
+
+y guardar el fuente
+```
+
+git add . && git commit -m "mrr $(date)" && git push -u --all;
 
 
 ```

@@ -32,3 +32,5 @@ pip install mkdocs
 
 ```
 todos los menus los va creando el programa solo
+
+[mas informacion mkdocs](https://www.mkdocs.org/)
